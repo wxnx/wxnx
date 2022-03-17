@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-<h1 align="center"  style="color:white;">📈 As Usual Some Stats! 📈</h1>
+<h1 align="center"  style="color:white;">Some Stats!</h1>
 
 <p align="center" >
   <a target="_blank" href="https://github.com/wxnx/stats">
